@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkcharts_dashboard_vue"]=self["webpackChunkcharts_dashboard_vue"]||[]).push([[443],{7750:function(s,t,u){u.r(t),u.d(t,{default:function(){return l}});var a=function(){var s=this;s._self._c;return s._m(0)},n=[function(){var s=this,t=s._self._c;return t("div",{staticClass:"about"},[t("h1",[s._v("This is an about page")])])}],r=u(1001),e={},c=(0,r.Z)(e,a,n,!1,null,null,null),l=c.exports}}]);
+//# sourceMappingURL=about.06a2c072.js.map
